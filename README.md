@@ -4,16 +4,15 @@
 <img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/5168534e-1f42-41cc-a7fc-9fde79c9a2d3" />
 <img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/a44b4ccf-0dbd-44bf-87b7-6aa8f46c9f2d" />
 <img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/884669dc-8dc8-4494-bef1-5b694dab286f" />
-Бонусы:_______________________________________________________________________________________________________________________________________________
+## Бонусы:
 <img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/94415424-d890-4175-bf76-8dbaae7bd208" />
-Уровни:_______________________________________________________________________________________________________________________________________________
+## Уровни:
 <img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/2aec217a-62bf-498a-ab0a-3bfec48e927c" />
 <img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/90aedac2-e44e-417f-b4c7-36aa01f88a44" />
 <img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/bc09ecaf-351b-4d07-b0f0-8bc3d5faa465" />
 <img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/de6acf64-c6e3-4baa-bedc-efc9d896ff85" />
 <img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/113ab9fa-6eb1-4369-9e06-e66f1dfbf0f5" />
-
-Пауза/Конец игры:___________________________________________________________________________________________________________________________________
+## Пауза/Конец игры:
 <img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/ea8bbcb8-938d-447c-b64c-5f779e8ae90c" />
 <img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/ee090aba-f8bc-44b4-a2eb-046d1fd0282b" />
 
