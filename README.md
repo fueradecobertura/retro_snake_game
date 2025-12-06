@@ -1,6 +1,6 @@
 # retro_snake_game
 ## Учебный проект по Pygame: «Ретро-питончик» (Snake)
- Скины:______________________________________________________________________________________________________________________________________________
+## Скины:
 <img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/5168534e-1f42-41cc-a7fc-9fde79c9a2d3" />
 <img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/a44b4ccf-0dbd-44bf-87b7-6aa8f46c9f2d" />
 <img width="330" height="300" alt="image" src="https://github.com/user-attachments/assets/884669dc-8dc8-4494-bef1-5b694dab286f" />
