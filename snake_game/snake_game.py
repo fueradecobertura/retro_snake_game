@@ -38,8 +38,6 @@ collision_sound = pygame.mixer.Sound("sounds/collision.mp3")  # звук сто�
 menu_sound = pygame.mixer.Sound("sounds/menu.mp3")  # звук нажатия в меню
 
 
-
-
 class Snake:
     def __init__(self, grid_width, grid_height):
         self.grid_width = grid_width  # сохраняем ширину поля в клетках
